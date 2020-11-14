@@ -1,0 +1,13 @@
+{
+  "name": "microbit-node-motion-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.9.1",
+    "ws": "^7.3.1"
+  }
+}
